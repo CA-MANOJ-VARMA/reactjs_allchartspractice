@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.css-barchart-container {
+  background-color: #1c1c2b;
+  color: white;
+  padding: 30px;
+  border-radius: 11px;
+  width: 90%;
+}
